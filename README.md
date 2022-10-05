@@ -2,7 +2,7 @@
 
 Requirements
 - Es soll Gitflow verwendet werden
-- Name vom Main branch: main
+- Name vom Main branch: src.main
 - Sonstige Branches, Development
 - Prefixes:
   - FeatureBranch: feature/
